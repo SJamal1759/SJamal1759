@@ -1,4 +1,4 @@
-# Hi, I'm Jamal Sikuku
+# Hi, I'm Jamal
 
 I'm an Application Support Engineer in Dubai with about seven years of experience supporting and developing enterprise applications, first at Kenya Revenue Authority and now at Emirates. I'm finishing an MSc in Artificial Intelligence and moving into AI engineering.
 
